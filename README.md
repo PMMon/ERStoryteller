@@ -47,8 +47,8 @@ We conducted experiments on 16 individual persons and validated the influence of
 - a setup without emotion detection
 
 <p float="left">
-  <img src="ReadMeFiles/experimental_setup_a.JPG" width="486" />
-  <img src="ReadMeFiles/experimental_setup_b.JPG" width="486" /> 
+  <img src="ReadMeFiles/experimental_setup_a.JPG" width="389" />
+  <img src="ReadMeFiles/experimental_setup_b.JPG" width="389" /> 
 </p>
 
 *Fig. 2: The experimental setup. The robotic storyteller is placed next to a computer that textually displays the current conversation. An external camera is capturing the facial expressions of the participants to infer their emotional state.*
